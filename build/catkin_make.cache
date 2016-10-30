@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/media/ubuntu/44d1e989-7cbc-4e71-a6ee-d9d3754efdd3/meccabrain/devel -DCMAKE_INSTALL_PREFIX=/media/ubuntu/44d1e989-7cbc-4e71-a6ee-d9d3754efdd3/meccabrain/install -G Unix Makefiles

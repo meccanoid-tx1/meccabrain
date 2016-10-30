@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/media/ubuntu/44d1e989-7cbc-4e71-a6ee-d9d3754efdd3/meccabrain/build/gtest/src -lpthread -Wl,-rpath,/media/ubuntu/44d1e989-7cbc-4e71-a6ee-d9d3754efdd3/meccabrain/build/gtest/src 
